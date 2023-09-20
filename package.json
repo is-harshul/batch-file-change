@@ -1,0 +1,34 @@
+{
+  "name": "file-changer",
+  "version": "1.0.0",
+  "description": "It iterates through your files and can change/replace a particular string to desired string and hence saving all the hassle and manual time that you might had to put in.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-harshul/file-changer.git"
+  },
+  "type": "module",
+  "keywords": [
+    "change",
+    "file",
+    "change",
+    "variable",
+    "batch",
+    "rename",
+    "batch",
+    "file",
+    "change",
+    "batch",
+    "edit"
+  ],
+  "author": "Harshul Kansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/is-harshul/file-changer/issues"
+  },
+  "homepage": "https://github.com/is-harshul/file-changer#readme"
+}
